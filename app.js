@@ -1,3 +1,6 @@
+// app to host a user generated file called testfile.txt for measuring bandwidth
+// between two local machines.
+
 const express = require("express");
 const app = express();
 
